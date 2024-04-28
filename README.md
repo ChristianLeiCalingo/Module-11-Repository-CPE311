@@ -3,9 +3,11 @@
 Seatwork 11.1 COLAB Link:
 
 Linear Regression
+
 https://colab.research.google.com/drive/1Rvr_eSOwTzzdYC3ez-LqWmocqSWCX9ea?usp=sharing
 
 Logistic Regression
+
 https://colab.research.google.com/drive/1I82803hhum5-CdBgwgLHjrsAZ1wokArs?usp=sharing
 
 
